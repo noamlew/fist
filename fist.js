@@ -13,5 +13,5 @@ document.addEventListener("mousedown", () => {
     setTime = setTimeout(() => {
         img.src = "image/2602451-46.jpg";
         document.body.style.background = "cornflowerblue";
-    }, 900);
+    }, 1000);
 })
